@@ -1,0 +1,39 @@
+# Basic Info
+name: Adrián Mora
+bio: Developer and videogames enthusiast. Trying to move the world, one step at a time.
+external-image: false
+picture: 'assets/images/profile.jpg'
+url: https://www.adrianmora.me
+
+resume: true
+resume-url: 'assets/resumes/resume.pdf'
+
+analytics-google: UA-108062404-1
+
+# Socials
+twitter: leakspin_
+github: amg1893
+reddit: leakspin_
+linkedin: adrian-maria-mora
+email: amora@adrianmora.me
+
+authors:
+    amora:
+        name: Adrián Mora
+        bio: Developer and videogames enthusiast. Trying to move the world, one step at a time.
+        external-image: false
+        picture: 'assets/images/profile.jpg'
+        twitter: johndoe
+
+projects: true
+about: true
+blog: true
+show-tags: true
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
