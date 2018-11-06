@@ -30,6 +30,7 @@ about: true
 blog: true
 show-tags: true
 animation: true
+width: large
 
 plugins:
   - jekyll-seo-tag
