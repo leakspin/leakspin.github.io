@@ -1,11 +1,14 @@
 ---
 title: Las Grandes Potencias Técnologicas
+image: "/assets/images/blog/hacker.webp"
 layout: post
 date: '2019-05-20 15:49:21'
 category: blog
 author: amora
+headerImage: true
 tag:
 - smartphones
+- noticias
 ---
 
 El título de esta entrada también podría haber sido *La siguiente Guerra Mundial será informática y puede que nos estemos acercando a ella*. Y la he escrito escuchando esto, entre otras canciones:
