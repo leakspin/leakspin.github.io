@@ -23,16 +23,14 @@ Y esto se une a la larga historia que tiene Huawei este 2019 con el gobierno de 
 
 Si habéis estado atentos a las noticias sobre tecnología durante este año, habréis notado como el Presidente de EEUU ha estado arremetiendo sobre Huawei, señalándola como una de las responsables del espionaje que *supuestamente* ha estado haciendo el Gobierno chino hacia la nación de la hamburguesa. Estas acusaciones han venido ligadas al proteccionismo que se ha querido impulsar, para dejar claro que EEUU tiene potencia suficiente como tener una industria móvil independiente, y no depender de nadie.
 
-Más allá de **mi opinión** sobre este movimiento de Trump, vamos a analizar poco a poco que es lo que ha pasado y que es lo que puede pasar.
+Vamos a analizar los datos que tenemos e intentar aclarar lo que esto supone. Si, incluye **opinión**.
 
 ## Pasado
 ¿Por qué hemos llegado a esta situación? Creo que lo más claro es que Asia siempre ha estado a la vanguardia en cuanto a tecnología móvil, desde que pueden. Japón, Corea del Sur y China son las naciones con mejores marcas móviles que conocemos (Samsung, Sony, Huawei, Xiaomi, entre otras). Y no han salido de la nada, tienen un reconocimiento internacional en cuanto a la investigación e implantación de redes por todo el mundo.
 
 Mientras tanto, en occidente nos hemos dedicado a hacer otras cosas: el software implantado en dicho hardware oriental es prácticamente nuestro: iOS y Android son los sistemas operativos más conocidos y usados a día de hoy. Promovido desde las empresas occidentales, cerca del 50% de los dispositivos utilizados en nuestro día a día.
 ![Estadísticas de uso de sistemas operativos a Abril de 2019](/assets/images/blog/os-stats-201904.png)  
-Fuente: [StatCounter Global Stats - OS Market Share](http://gs.statcounter.com/os-market-share)  
-
-Cada parte del mundo tiene su cultura, su tradición y su hueco en el mercado. Lo que nos enseña la historia es que no todo el mundo puede ser perfecto en todo. Y, sobre todo, que tenemos que colaborar entre todos.
+Fuente: [StatCounter Global Stats](http://gs.statcounter.com/os-market-share)  
 
 ## Presente
 ¿Por qué ahora ocurre esto? Bueno, como he dicho antes, la llegada de Trump al poder ha repercutido mucho tanto en la economía mundial como en la sociedad. Muchos serán los memes que haya pero Trump ha dejado una huella, la cual nos costará quitar.
@@ -62,6 +60,8 @@ Aún así, si no os fiais, no os preocupéis: [Google ha dicho que mantendrá la
 
 Por otra parte, la compañía se ha quedado sin sistema operativo. Pese a que ya se habia dicho que [Huawei estaba trabajando en su propio sistema operativo](https://www.xatakandroid.com/sistema-operativo/huawei-tiene-listo-sistema-operativo-que-reemplazara-a-android-caso-que-sea-necesario), seguro que no ha sido bien recibido que Google haya terminado el contrato. De igual manera, esta ruptura implica que las dos compañías no podrán colaborar entre sí para desplegar el sistema operativo en futuros dispositivos, pero **sí que podrá seguir usando dicho software**, ya que parte está con licencia open source (libre de cualquier imposición por un estado).
 
+Más allá de esto, Huawei ya tiene su propia marca de procesadores, *HiSilicon*, con la cual ya esta montando la mayor parte de sus dispositivos móviles. Es cuestión de tiempo para que, en el futuro, también den el salto a las grandes plataformas.
+
 Igualmente, este futuro es del todo incierto ya que, a unas horas de la cancelación de las compañías estadounidenses, no sabemos realmente cuales van a ser las medidas reales que se van a tomar (como dice el dicho, puede que haya mucho ruido pero pocas nueces). Tendremos que estar atentos.
 
 ## Opinión
@@ -74,7 +74,13 @@ Bueno, terminados de exponer la mayor parte de los hechos, esto es como todo: no
 
 Por otra parte, Huawei dice que no están aquí para *hacer política*, y que no filtran nada a nadie, ni siquiera a su gobierno. ¿Será verdad?
 
-Lo único que podemos concluir de esta trama es que el avance tecnológico volverá a ser mermado porque los gobiernos tienen interés en espiar a sus habitantes para que no conspiren en contra de ellos, que no les quiten su puesto privilegiado el cual les ha costado millones de euros/dólares. Y que también la economia esta muy ligada con la política, y viceversa. Estos movimientos no vienen en vano, si no por la envidia de la evolución que tiene China con respecto a EEUU, y que EEUU está viendo que, si no se pone las pilas, tienen los días contados. Y espero que, por ello, no nos veamos envueltos en una guerra.
+Una de las cosas claras que vemos es que vamos a tener un competidor menos. Huawei se estaba posicionando como una de las mejores marcas de móviles a nivel mundial. Pelear por el mercado contra Samsung y Apple es muy duro, pero ahí estaba, dando guerra al mercado occidental. **Incluso yo mismo había optado por un Honor hace 1 año**. Esto es un varapalo enorme para ellos, por cuestiones de credibilidad.  
+![Estadísticas de uso de sistemas operativos a Abril de 2019](/assets/images/blog/mobile-brands-stats-201904.png)  
+Fuente: [StatCounter Global Stats](http://gs.statcounter.com/vendor-market-share/mobile/worldwide)  
+
+Otro punto que podemos concluir de esta trama es que el avance tecnológico volverá a ser mermado porque los gobiernos tienen interés en espiar a sus habitantes para que no conspiren en contra de ellos, que no les quiten su puesto privilegiado el cual les ha costado millones de euros/dólares. Y que también la economia esta muy ligada con la política, y viceversa. Estos movimientos no vienen en vano, si no por la envidia de la evolución que tiene China con respecto a EEUU, y que EEUU está viendo que, si no se pone las pilas, tienen los días contados. Y espero que, por ello, no nos veamos envueltos en una guerra.
+
+Me gustaría poder decir que me da pena porque tengo simpatía por Huawei. Por desgracia, no puedo hacerlo. Mas alla de darme un móvil barato con unas caracteristicas bastante suculentas, no han contribuido (desde donde yo sé) mucho al mercado del código abierto. Es más, el desarrollo de ROMs personalizadas para sus dispositivos [ha sido denegado por la compañía](https://www.xataka.com/moviles/usuarios-moviles-huawei-roms-personalizadas-obligados-a-eliminarlas-volver-a-rom-oficial).
 
 ¿Y qué puede hacer un hombre? Pues o protestar por ello, ya sea en redes sociales o manifestándose, o hacer boicot, dejar de usar Android por ello, o no hacer nada.
 
