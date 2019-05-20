@@ -83,4 +83,4 @@ Agradezco a todos los que lean esta entrada, que creo que valoran mi opinión y 
 
 Si veo que me equivoco en algo o si los datos son erróneos, lo corregiré en el futuro (o en el pasado, dependiendo de cuando leas esto).
 
-Perdon por el tocho. TLDR: estamos jodidos.
+Perdón por el tocho. TLDR: estamos jodidos.
