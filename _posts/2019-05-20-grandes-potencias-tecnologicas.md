@@ -11,6 +11,12 @@ tag:
 - noticias
 ---
 
+## Edición del 21 de mayo de 2019
+
+RT ha sacado un vídeo explicando que es lo que ha pasado, que condensa gran parte del artículo en 3 minutos. ¡Dadle al RT!
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¿Por qué los EEUU vetan a <a href="https://twitter.com/hashtag/Huawei?src=hash&amp;ref_src=twsrc%5Etfw">#Huawei</a>? <br>Una pista: No es por el espionaje.<a href="https://t.co/7cwHut7qhp">pic.twitter.com/7cwHut7qhp</a></p>&mdash; Olik Valera (@olikvalera) <a href="https://twitter.com/olikvalera/status/1130473921445322753?ref_src=twsrc%5Etfw">20 de mayo de 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 El título de esta entrada también podría haber sido *La siguiente Guerra Mundial será informática y puede que nos estemos acercando a ella*. Y la he escrito escuchando esto, entre otras canciones:
 <center><iframe src="https://open.spotify.com/embed/track/3pTNVDJpzaLxiZnbC18SMX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
