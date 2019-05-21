@@ -14,7 +14,7 @@ tag:
 ## Edición del 21 de mayo de 2019
 
 RT ha sacado un vídeo explicando que es lo que ha pasado, que condensa gran parte del artículo en 3 minutos. ¡Dadle al RT!
-<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¿Por qué los EEUU vetan a <a href="https://twitter.com/hashtag/Huawei?src=hash&amp;ref_src=twsrc%5Etfw">#Huawei</a>? <br>Una pista: No es por el espionaje.<a href="https://t.co/7cwHut7qhp">pic.twitter.com/7cwHut7qhp</a></p>&mdash; Olik Valera (@olikvalera) <a href="https://twitter.com/olikvalera/status/1130473921445322753?ref_src=twsrc%5Etfw">20 de mayo de 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">1989 - Ay, los chinos y sus baratijas 🤣<br>1999 - Jajaja, los chinos y sus imitaciones 🤦‍♀<br>2009 - ¿Supiste? Ahora los chinos ensamblan los iPhone 😯 <br>2019 - ¡Los chinos dominan las telecomunicaciones! ¡Hay que detenerlos! 😱 <br>Con <a href="https://twitter.com/inafinogenova?ref_src=twsrc%5Etfw">@inafinogenova</a> <a href="https://t.co/km8jqYk3EH">pic.twitter.com/km8jqYk3EH</a></p>&mdash; RT en Español (@ActualidadRT) <a href="https://twitter.com/ActualidadRT/status/1130440281218666496?ref_src=twsrc%5Etfw">20 de mayo de 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 El título de esta entrada también podría haber sido *La siguiente Guerra Mundial será informática y puede que nos estemos acercando a ella*. Y la he escrito escuchando esto, entre otras canciones:
