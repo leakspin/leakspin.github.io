@@ -6,7 +6,7 @@ picture: 'assets/images/profile.jpg'
 url: https://adrianmora.me
 
 resume: true
-resume-url: 'assets/resume/resume.pdf'
+resume-url: '/resume'
 
 analytics-google: UA-108062404-1
 
