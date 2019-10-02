@@ -1,12 +1,12 @@
 ---
-title: IGW - Ring
+title: Wordtober 2019 - Ring
 layout: post
 date: '2019-10-01 11:01:00'
-category: igw
+category: wordtober
 author: amora
 headerImage: false
 tag:
-- inktober gone written
+- wordtober
 ---
 
 Es uno de los momentos más importantes de mi vida. Quiero decir, voy a proponerme, por fin, después de tantos años. Espero que todo salga como debería, porque estoy bastante nervioso.
