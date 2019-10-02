@@ -16,4 +16,4 @@ Entonces, como ha empezado [Inktober](https://inktober.com/), pues he decidido h
 
 ![Listado de palabras Inktober 2019](/assets/images/blog/2019promptlist.png)
 
-Para ver el resultado, podéis ir al [índice de Wordtober](/projects/2019/10/01/wordtober.html).
+Para ver el resultado, podéis ir al [índice de Wordtober](/projects/2019/10/01/wordtober-2019.html).
