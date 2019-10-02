@@ -1,7 +1,7 @@
 ---
 title: Wordtober 2019 - Mindless
 layout: post
-date: '2019-10-01 13:29:00'
+date: '2019-10-02 13:29:00'
 category: wordtober
 author: amora
 headerImage: false
