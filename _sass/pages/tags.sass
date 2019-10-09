@@ -64,6 +64,9 @@
     > .item:hover > .url > .title
         color: $delta
 
+        @media ($darkmode)
+            color: $darkdelta
+
     // maybe we can't nest html5 elements
     // can you help me?
     aside
@@ -80,3 +83,6 @@
 
     .item:hover .url aside
         color: $alpha
+
+        @media ($darkmode)
+            color: $darkalpha

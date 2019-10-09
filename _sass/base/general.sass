@@ -6,17 +6,27 @@ body
 	font: 16px $fontSans
 	color: $alpha
 
+	@media ($darkmode)
+		background-color: #444
+		color: $darkalpha
+
 h1, h2, h3, h4
 	font-family: $fontSans
 	color: $beta
 	-webkit-font-smoothing: antialiased
 	text-rendering: optimizeLegibility
 
+	@media ($darkmode)
+		color: $darkbeta
+
 h1
 	font-size: 3rem
 	letter-spacing: -1px
 	color: $beta
 	font-weight: 700
+
+	@media ($darkmode)
+		color: $darkbeta
 
 h2
 	font-size: 2.2rem
@@ -31,12 +41,18 @@ a
 	color: $delta
 	text-decoration: underline
 
+	@media ($darkmode)
+		color: $darkdelta
+
 p
 	line-height: 1.7
 	color: $alpha
 	font-weight: 300
 	margin-bottom: 20px
 	letter-spacing: 0.4px
+
+	@media ($darkmode)
+		color: $darkalpha
 
 	@media #{$mobile}
 		letter-spacing: 0.2px
@@ -51,6 +67,9 @@ ol
 		line-height: 2.4rem
 		font-weight: 300
 		color: $alpha
+
+		@media ($darkmode)
+			color: $darkalpha
 
 img,
 pre,

@@ -37,6 +37,9 @@
             &:hover
                 fill: $delta !important
 
+                @media ($darkmode)
+                    fill: $darkdelta !important
+
     > .extra
         color: $gama
         margin-top: 0
@@ -47,6 +50,9 @@
             border-bottom: 1px solid transparent
             transition: ease-in-out all .3s
             padding-bottom: 1px
+
+            @media ($darkmode)
+                color: $darkbeta
 
             &:hover
                 border-color: $gama
