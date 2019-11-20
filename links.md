@@ -8,3 +8,4 @@ Here I can remember some artists, webs, comics,... Whatever that I really like b
 
 ## Artists
 * Lap Pun Cheung - Concept Artist [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://www.artstation.com/c780162){:target="_blank"}
+* Tim Simpson - Senior Artist Lighting [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://www.artstation.com/pixelmasher){:target="_blank"}
