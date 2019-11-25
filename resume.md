@@ -41,7 +41,7 @@ layout: page
 
    The technologies that we used were PHP (Laravel), MySQL, HTML, CSS, JavaScript and operative system and harware tools.
 
- * 1 year and 11 months as **SQA (Software Quality Assurance) Developer**.
+ * 1 year and 11 months as **SQA (Software Quality Assurance) Developer**.  
    2015 - 2017 - Imaweb   
 
    Obligations and responsibilities:
@@ -59,7 +59,7 @@ layout: page
    The technologies that we used were MustacheJS for the templatizacion of views, Apache Cordova for the building of mobile application and all the previous technologies used.
 
  * 1 year and 4 months as **Full-Stack Developer**.   
-   2018 - {{ site.time | date: '%Y' }} - Web Financial Group
+   2018 - 2019 - Web Financial Group
 
    Obligations and responsibilities:
    * Development of an API-Rest from scratch to serve internal data to clients. This API was conceived as a group of integrations and versions that coexists between them.
@@ -70,6 +70,15 @@ layout: page
    * Presentation of the application to third party companies and final clients.
 
    The technologies that we used were PHP (Phalcon), MySQL, HTML, CSS and JavaScript. Also, we used Jenkins for deployment and automation, SonarQube, PHPUnit, RAML and OAS 3.0.
+
+ * Currently as **Developer Analyst**.  
+   2019 - {{ site.time | date: '%Y' }} - Scalefast
+
+   Obligations and responsibilities:
+   * Development and maintenance of the eCommerce platform for its different clients.
+   * Analysis regarding development, maintentance and implications for the requests asked by the clients.
+
+   The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
 
 ### Other Courses
  * Diploma on Administración de Servicios Web (MF0495_3).   
