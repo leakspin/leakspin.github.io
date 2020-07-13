@@ -26,7 +26,7 @@ layout: page
 
 ### Academy Activities
  * 2 years of Bachelor in **Computer Science** - English Course.   
-   2011 - 2012 - Universidad Carlos III de Madrid - Escuela Politécnica Superior - Leganés.
+   2011 - 2013 - Universidad Carlos III de Madrid - Escuela Politécnica Superior - Leganés.
 
 ### Proffesional Experience
  * 10 months as **Web Developer, Graphic Designer and System Administrator**.   
@@ -93,7 +93,7 @@ European Framework of Reference for Languages.
    Stay abroad in Brighton (United Kingdom).   
 
 ### Computer Skills
-Skills on Adobe Photoshop and Adobe Illustrator.
+Skills on Adobe Photoshop, Adobe Illustrator and Adobe Premiere.
 
 Programming languages:  
  * Basic understanding of C, Java and Python. Basic knowledge of Symfony, Laravel and Apache.
