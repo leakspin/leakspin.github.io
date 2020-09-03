@@ -77,6 +77,7 @@ layout: page
    Obligations and responsibilities:
    * Development and maintenance of the eCommerce platform for its different clients.
    * Analysis regarding development, maintentance and implications for the requests asked by the clients.
+   * Review, study and improve of payment and fulfillment processes of the platform. This included communication with third party providers, including different payment methods (Adyen, PayPal,...) and implementation with warehouses (EDI, API,...).
 
    The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
 
