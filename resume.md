@@ -9,7 +9,7 @@ layout: page
             <td>
                 <p>Adrián Mora</p>
                 <p>Birthdate: 18/05/1993</p>
-                <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+              {% include social-links.html %}
             </td>
             <td>
                 <img src="{{ site.picture }}" />
@@ -19,45 +19,36 @@ layout: page
 </table>
 
 ### Studies Accomplished
- * Baccaulerate in **Science**   
-   2005 - 2011 - IES Matemático Puig Adam - Getafe
  * Graduated on Vocational Training (CFGS) - **Administración de Sistemas Informáticos en Red**.   
    2013 - 2015 - IES Luis Vives - Leganés
+ * Baccaulerate in **Science**   
+   2005 - 2011 - IES Matemático Puig Adam - Getafe
 
 ### Academy Activities
  * 2 years of Bachelor in **Computer Science** - English Course.   
    2011 - 2013 - Universidad Carlos III de Madrid - Escuela Politécnica Superior - Leganés.
 
 ### Proffesional Experience
- * 10 months as **Web Developer, Graphic Designer and System Administrator**.   
-   2014 - 2015 - eTuitoo/ComerZialia   
-      
-   Obligations and responsibilities:
-   * Development of an online shop without any support of an existing platform oriented to online selling (Magento, Prestashop,…).
-   * Launch of multiple WordPress blogs.
-   * Design of the logo for the company with Adobe Photoshop
-   * Design of websites and blog themes
-   * System and local network administration.   
-
-   The technologies that we used were PHP (Laravel), MySQL, HTML, CSS, JavaScript and operative system and harware tools.
-
- * 1 year and 11 months as **SQA (Software Quality Assurance) Developer**.  
-   2015 - 2017 - Imaweb   
+ * Currently as **Developer Team Lead**.  
+   2021 - {{ site.time | date: '%Y' }} - Scalefast
 
    Obligations and responsibilities:
-   * Problem tracking and solving concerning the integrity of CRMAuto and its adaptation to different car brands.
-   * Development of a script that parses new mail from a mailbox and automatically creates support tickets in order to solve problems concerning the integrity of CRMAuto and its adaptation to different car brands.   
+   * Specialization in the payment side of the eCommerce platform.
+   * Implementation of new payment standards (PSD2) or new methods (internal wallet system).
+   * Review, study and estimations of possible developments and overwatching the rest of the developers in the department.
 
-   The technologies that we used were PHP, MySQL, HTML, CSS and JavaScript.
+   The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
 
- * 6 months as **Developer**.   
-   2017 - 2018 - Imaweb   
+ * 1 year and 2 months as **Developer Analyst**.  
+   2019 - 2020 - Scalefast
 
    Obligations and responsibilities:
-   * Development of a new module oriented for car workshops. It is integrated within CRMAuto application.
+   * Development and maintenance of the eCommerce platform for its different clients.
+   * Analysis regarding development, maintentance and implications for the requests asked by the clients.
+   * Review, study and improve of payment and fulfillment processes of the platform. This included communication with third party providers, including different payment methods (Adyen, PayPal,...) and implementation with warehouses (EDI, API,...).
 
-   The technologies that we used were MustacheJS for the templatizacion of views, Apache Cordova for the building of mobile application and all the previous technologies used.
-
+   The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
+   
  * 1 year and 4 months as **Full-Stack Developer**.   
    2018 - 2019 - Web Financial Group
 
@@ -70,16 +61,35 @@ layout: page
    * Presentation of the application to third party companies and final clients.
 
    The technologies that we used were PHP (Phalcon), MySQL, HTML, CSS and JavaScript. Also, we used Jenkins for deployment and automation, SonarQube, PHPUnit, RAML and OAS 3.0.
-
- * Currently as **Developer Analyst**.  
-   2019 - {{ site.time | date: '%Y' }} - Scalefast
+   
+ * 6 months as **Developer**.   
+   2017 - 2018 - Imaweb   
 
    Obligations and responsibilities:
-   * Development and maintenance of the eCommerce platform for its different clients.
-   * Analysis regarding development, maintentance and implications for the requests asked by the clients.
-   * Review, study and improve of payment and fulfillment processes of the platform. This included communication with third party providers, including different payment methods (Adyen, PayPal,...) and implementation with warehouses (EDI, API,...).
+   * Development of a new module oriented for car workshops. It is integrated within CRMAuto application.
 
-   The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
+   The technologies that we used were MustacheJS for the templatizacion of views, Apache Cordova for the building of mobile application and all the previous technologies used.
+   
+ * 1 year and 11 months as **SQA (Software Quality Assurance) Developer**.  
+   2015 - 2017 - Imaweb   
+
+   Obligations and responsibilities:
+   * Problem tracking and solving concerning the integrity of CRMAuto and its adaptation to different car brands.
+   * Development of a script that parses new mail from a mailbox and automatically creates support tickets in order to solve problems concerning the integrity of CRMAuto and its adaptation to different car brands.   
+
+   The technologies that we used were PHP, MySQL, HTML, CSS and JavaScript.
+
+ * 10 months as **Web Developer, Graphic Designer and System Administrator**.   
+   2014 - 2015 - eTuitoo/ComerZialia   
+      
+   Obligations and responsibilities:
+   * Development of an online shop without any support of an existing platform oriented to online selling (Magento, Prestashop,…).
+   * Launch of multiple WordPress blogs.
+   * Design of the logo for the company with Adobe Photoshop
+   * Design of websites and blog themes
+   * System and local network administration.   
+
+   The technologies that we used were PHP (Laravel), MySQL, HTML, CSS, JavaScript and operative system and harware tools.
 
 ### Other Courses
  * Diploma on Administración de Servicios Web (MF0495_3).   
