@@ -10,6 +10,7 @@ layout: page
                 <p>Adrián Mora</p>
                 <p>Birthdate: 18/05/1993</p>
               {% include social-links.html %}
+              <p id='email'>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
             </td>
             <td>
                 <img src="{{ site.picture }}" />
