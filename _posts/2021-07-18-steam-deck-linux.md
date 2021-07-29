@@ -37,6 +37,9 @@ Tambien, para poder hacer eso, vamos a tener un señor *big chungus* entre manos
 
 ### VALVe
 
+![Gabe Newell en la entrevista con IGN sobre Steam Deck](/assets/images/blog/gabe_newell_steam_deck.jpg)
+[via IGN](https://youtu.be/4FXgDAF6QpM)
+
 VALVe ha sido una empresa que desde el principio ha sorprendido con todas las decisiones que ha tomado. Ninguna de las decisiones que ha ido tomando han sido regladas o predecidas en gran medida por nadie. El lanzamiento de una saga tan grande como Half Life le dio muchas alas para crear algo que nadie se esperaba: un alojamiento para tantas desarrolladoras y poder centralizar una tienda para la venta de videojuegos. La revolucion online habia empezado y Steam se habia establecido ya como la plataforma alternativa a las consolas y la venta offline.
 
 Poco despues, el desarrollo de videojuegos vimos que se vio mermado y ya no habia ninguna famosa tercera entrega, si no que simplemente se encargaban de hacer distintos mantenimientos a distintos juegos: DotA2 cambio de sus parches bianuales a anuales con el cambio de temporada (y una revision de fixes durante el año, pero minima en comparacion con el parche gordo), CSGO dejo de tener nuevos desarrollos grandes a simplemente ir introduciendo operaciones, lootboxes y poco mas... De Artifact no hablamos.
@@ -46,6 +49,10 @@ Pero, por otro lado, Steam habia empezado a desarrollar hardware: Steam Link, St
 Que tu tengas un PC te da la libertad de poder instalar y hacer con el lo que te de la gana. Instalar Windows o una distribucion de GNU/Linux esta ahora mismo a golpe de unos pocos clicks, sin mayores dolores de cabeza. Y, como tal, VALVe siempre ha querido aprovecharse de ello. Ademas, desarrollar su propio hardware hace que pueda usar su propio software y poder ahorrarse las costosas licencias de Windows y que luego no puedas modificar su sistema operativo sin que te den dolores de cabeza.
 
 ### Steam OS
+
+![Gabe Newell en la entrevista con IGN sobre Steam Deck](/assets/images/blog/SteamOS_Logo.png)   
+[via Wikipedia](https://en.wikipedia.org/wiki/SteamOS)
+
 Asi nace Steam OS, una distribucion basada en Debian focalizada en que puedas jugar a todos tus juegos de Steam sin ningun problema. Sus dos primeras versiones han sido... Malas. La salida con las Steam Machines no le dio mucha publicidad, pero es que el SO tampoco ha sido optimizado lo suficiente como para exprimir al maximo. Por experiencia propia.
 
 Que ha cambiado? Sobre todo, el tiempo y la optimizacion del kernel Linux. Eso, unido a que la siguiente version de Steam OS va a estar basada en Arch (muchisimo mas rapido y liviano que Debian), creo que va a ser el golpe de acierto para que Steam Deck pueda funcionar bien.
