@@ -16,3 +16,6 @@ Here I can remember some artists, webs, comics,... Whatever that I really like b
 ## Radio Stations
 * Melancholy Corner - lo-fi radio station [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://melancholy.xyz/){:target="_blank"}
 * Poolside FM - retro radio station [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://poolside.fm/){:target="_blank"}
+
+## Utils
+* WhoHasAccess - remove access for users inside Google Drive [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://www.whohasaccess.com/){:target="_blank"}
