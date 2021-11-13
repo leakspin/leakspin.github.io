@@ -35,7 +35,11 @@ layout: page
 
    Obligations and responsibilities:
    * Specialization in the payment side of the eCommerce platform.
-   * Implementation of new payment standards (PSD2) or new methods (internal wallet system).
+   * Implementation of new payment standards (PSD2) and new methods (internal wallet payment system).
+   * Conception and planification of a refactor of the payment system
+     * Microservice oriented
+     * DDD oriented using hexagonal architecture
+     * PCI-compliant oriented
    * Review, study and estimations of possible developments and overwatching the rest of the developers in the department.
 
    The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
@@ -92,12 +96,6 @@ layout: page
 
    The technologies that we used were PHP (Laravel), MySQL, HTML, CSS, JavaScript and operative system and harware tools.
 
-### Other Courses
- * Diploma on Administración de Servicios Web (MF0495_3).   
-   Belongs to Certificado de Profesionalidad: Administración de Servicios de
-Internet.   
-   2013 - 180 hours.
-
 ### Languages
  * **English** Diploma on Advanced Level of Escuela Oficial de Idiomas B2 as stated on the Common
 European Framework of Reference for Languages.   
@@ -107,14 +105,16 @@ European Framework of Reference for Languages.
 ### Computer Skills
 Skills on Adobe Photoshop, Adobe Illustrator and Adobe Premiere.
 
+Advance understanding of GNU/Linux and Microsoft Windows systems, with their possible development environments and command line utilities.
+
 Programming languages:  
- * Basic understanding of C, Java and Python. Basic knowledge of Symfony, Laravel and Apache.
- * Advanced understanding of PHP, SQL, HTML, JavaScript, CSS and Nginx. I’m used to work with the PHP framework Phalcon. 
+ * Basic understanding of C, Java, Ruby and Python. Basic knowledge of Symfony and Apache.
+ * Advanced understanding of PHP, SQL, HTML, JavaScript, CSS and Nginx. I’m used to work with the PHP frameworks Phalcon and Laravel. 
 
 ### Other Activities
 * Collaborator as writer in **“SupplyZero”**.
 * Collaborator as writer in the magazine **"Le Puig"** of Matemático Puig Adam High School of Getafe.
- * Collaborator and design coordinator on the magazine **“Revista Futuro”**.
- * Volunteer as accommodator and security staff on **“T3chFest”**, a computer fair organized by students of the EPS of Universidad Carlos III de Madrid.
- * Collaborator as writer in **“The Gamer eSports”**.
- * Founder member and assistant on **"Kawaii Kiwis"**.
+* Collaborator and design coordinator on the magazine **“Revista Futuro”**.
+* Volunteer as accommodator and security staff on **“T3chFest”**, a computer fair organized by students of the EPS of Universidad Carlos III de Madrid.
+* Collaborator as writer in **“The Gamer eSports”**.
+* Founder member and assistant on **"Kawaii Kiwis"**.
