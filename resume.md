@@ -30,8 +30,19 @@ layout: page
    2011 - 2013 - Universidad Carlos III de Madrid - Escuela Politécnica Superior - Leganés.
 
 ### Proffesional Experience
- * Currently as **Developer Team Lead**.  
-   2021 - {{ site.time | date: '%Y' }} - Scalefast
+ * Currently as **Full-Stack Developer**.  
+   2022 - {{ site.time | date: '%Y' }} - Theviralab
+
+   Obligations and responsibilities:
+   * Developing new features (both front and back) for the all-in-one solution for ads in Google Adwords and Facebook Ads
+   * Maintenance of the platform:
+     * Problem tracking and solving
+     * Upgrades of hosts and taking care of their alerts
+
+   The technologies that we use are PHP, MongoDB, HTML, CSS, JavaScript, Redis along with AngularJS and PHPUnit.
+
+ * 1 year and 3 months as **Developer Team Lead**.  
+   2021 - 2022 - Scalefast
 
    Obligations and responsibilities:
    * Specialization in the payment side of the eCommerce platform.
