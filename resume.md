@@ -108,6 +108,7 @@ layout: page
    The technologies that we used were PHP (Laravel), MySQL, HTML, CSS, JavaScript and operative system and harware tools.
 
 ### Languages
+ * **Spanish** Native.
  * **English** Diploma on Advanced Level of Escuela Oficial de Idiomas B2 as stated on the Common
 European Framework of Reference for Languages.   
    Stay abroad in Dublin (Ireland).   
@@ -128,4 +129,4 @@ Programming languages:
 * Collaborator and design coordinator on the magazine **“Revista Futuro”**.
 * Volunteer as accommodator and security staff on **“T3chFest”**, a computer fair organized by students of the EPS of Universidad Carlos III de Madrid.
 * Collaborator as writer in **“The Gamer eSports”**.
-* Founder member and assistant on **"Kawaii Kiwis"**.
+* Founder member and ex-assistant on **"Kawaii Kiwis"**.
