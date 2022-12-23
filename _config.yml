@@ -30,12 +30,6 @@ blog: true
 show-tags: true
 animation: true
 width: large
-feed:
-  collections:
-    changes:
-      path: "/rss.xml"
-      categories:
-        - blog
 
 plugins:
   - jekyll-seo-tag
