@@ -31,8 +31,11 @@ show-tags: true
 animation: true
 width: large
 feed:
-  categories:
-    - blog
+  collections:
+    changes:
+      path: "/feed.xml"
+      categories:
+        - blog
 
 plugins:
   - jekyll-seo-tag
