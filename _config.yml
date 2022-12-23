@@ -30,6 +30,9 @@ blog: true
 show-tags: true
 animation: true
 width: large
+feed:
+  categories:
+    - blog
 
 plugins:
   - jekyll-seo-tag
