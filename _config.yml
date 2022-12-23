@@ -33,7 +33,7 @@ width: large
 feed:
   collections:
     changes:
-      path: "/feed.xml"
+      path: "/rss.xml"
       categories:
         - blog
 
