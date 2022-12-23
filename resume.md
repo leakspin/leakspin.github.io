@@ -30,8 +30,19 @@ layout: page
    2011 - 2013 - Universidad Carlos III de Madrid - Escuela Politécnica Superior - Leganés.
 
 ### Proffesional Experience
- * Currently as **Developer Team Lead**.  
-   2021 - {{ site.time | date: '%Y' }} - Scalefast
+ * Currently as **Full-Stack Developer**.  
+   2022 - {{ site.time | date: '%Y' }} - Theviralab
+
+   Obligations and responsibilities:
+   * Developing new features (both front and back) for the all-in-one solution for ads in Google Adwords and Facebook Ads
+   * Maintenance of the platform:
+     * Problem tracking and solving
+     * Upgrades of hosts and taking care of their alerts
+
+   The technologies that we use are PHP, MongoDB, HTML, CSS, JavaScript, Redis along with AngularJS and PHPUnit.
+
+ * 1 year and 3 months as **Developer Team Lead**.  
+   2021 - 2022 - Scalefast
 
    Obligations and responsibilities:
    * Specialization in the payment side of the eCommerce platform.
@@ -97,6 +108,7 @@ layout: page
    The technologies that we used were PHP (Laravel), MySQL, HTML, CSS, JavaScript and operative system and harware tools.
 
 ### Languages
+ * **Spanish** Native.
  * **English** Diploma on Advanced Level of Escuela Oficial de Idiomas B2 as stated on the Common
 European Framework of Reference for Languages.   
    Stay abroad in Dublin (Ireland).   
@@ -117,4 +129,4 @@ Programming languages:
 * Collaborator and design coordinator on the magazine **“Revista Futuro”**.
 * Volunteer as accommodator and security staff on **“T3chFest”**, a computer fair organized by students of the EPS of Universidad Carlos III de Madrid.
 * Collaborator as writer in **“The Gamer eSports”**.
-* Founder member and assistant on **"Kawaii Kiwis"**.
+* Founder member and ex-assistant on **"Kawaii Kiwis"**.

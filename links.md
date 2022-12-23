@@ -13,6 +13,9 @@ Here I can remember some artists, webs, comics,... Whatever that I really like b
 * iqbal alamsyah - hand drawing illustrator [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://www.artstation.com/iqbalalamsyah){:target="_blank"}
 * koyorin - cyberpunk artist [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://www.artstation.com/koyorin){:target="_blank"}
 
+## Devs/Interesting stuff
+* Mrusume - developer of things [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://マリウス.com/){:target="_blank"}
+
 ## Radio Stations
 * Melancholy Corner - lo-fi radio station [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://melancholy.xyz/){:target="_blank"}
 * Poolside FM - retro radio station [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://poolside.fm/){:target="_blank"}
