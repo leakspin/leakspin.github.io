@@ -11,7 +11,7 @@ category: projects
 
 Kawaii Kiwis. Kawaii Kiwis is an esports club that wants to differentiate among the rest of the clubs by connecting with people and engaging through social networks and live events.
 
-You can follow us in the following social networks!  
+**I am no longer collaborating with them**, but you can check their social accounts!
 <p class="text-center">
 <a class="link" data-title="kawaiikiwis.es" href="http://kawaiikiwis.es" target="_blank"><svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg></a>
 <a class="link" data-title="twitter.com/kawaiikiwis" href="http://twitter.com/kawaiikiwis" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a>

@@ -34,12 +34,13 @@ layout: page
    2022 - {{ site.time | date: '%Y' }} - Theviralab
 
    Obligations and responsibilities:
-   * Developing new features (both front and back) for the all-in-one solution for ads in Google Adwords and Facebook Ads
+   * Developing new features (both front and back) for the all-in-one solution for ads in Google Adwords and Facebook Ads.
+   * Optimizing bot algorithm for improving ad delivery.
    * Maintenance of the platform:
-     * Problem tracking and solving
-     * Upgrades of hosts and taking care of their alerts
+     * Problem tracking and solving.
+     * Upgrades of hosts and taking care of their alerts.
 
-   The technologies that we use are PHP, MongoDB, HTML, CSS, JavaScript, Redis along with AngularJS and PHPUnit.
+   The technologies that we use are PHP, MongoDB, Python, HTML, CSS, JavaScript, Redis along with AngularJS and PHPUnit.
 
  * 1 year and 3 months as **Developer Team Lead**.  
    2021 - 2022 - Scalefast
@@ -47,10 +48,10 @@ layout: page
    Obligations and responsibilities:
    * Specialization in the payment side of the eCommerce platform.
    * Implementation of new payment standards (PSD2) and new methods (internal wallet payment system).
-   * Conception and planification of a refactor of the payment system
-     * Microservice oriented
-     * DDD oriented using hexagonal architecture
-     * PCI-compliant oriented
+   * Conception and planification of a refactor of the payment system.
+     * Microservice oriented.
+     * DDD oriented using hexagonal architecture.
+     * PCI-compliant oriented.
    * Review, study and estimations of possible developments and overwatching the rest of the developers in the department.
 
    The technologies that we use are PHP, MySQL, HTML, CSS, JavaScript, Redis along with SonarQube, PHPUnit and Selenium.
