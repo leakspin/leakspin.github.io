@@ -8,14 +8,13 @@ url: https://adrianmora.me
 resume: true
 resume-url: 'resume'
 
-analytics-google: UA-108062404-1
-
 # Socials
 twitter: leakspin_
 github: leakspin
 gitlab: leakspin
 linkedin: adrian-maria-mora
 email: amora@adrianmora.me
+mastodon: https://paquita.masto.host/@leakspin
 
 authors:
     amora:
