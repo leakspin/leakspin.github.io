@@ -15,6 +15,7 @@ Here I can remember some artists, webs, comics,... Whatever that I really like b
 
 ## Devs/Interesting stuff
 * Mrusume - developer of things [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://マリウス.com/){:target="_blank"}
+* Visual design rules you can safely follow every time - Anthony Hobday [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://anthonyhobday.com/sideprojects/saferules/){:target="_blank"}
 
 ## Radio Stations
 * Melancholy Corner - lo-fi radio station [<svg class="icon icon-www"><use xlink:href="#icon-www"></use></svg>](https://melancholy.xyz/){:target="_blank"}
